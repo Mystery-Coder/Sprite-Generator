@@ -1,6 +1,6 @@
 # Sprite Generator
-Generating block sprites using a simple algorithm. 
-Written in Java using Processing 4
+Generating block sprites using a simple algorithm,
+written in Java using Processing 4 environment 
 
 # Algorithm
 The algorithm is simple, consider the canvas divied into nxn squares and there are cases for handling
