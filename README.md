@@ -20,4 +20,4 @@ For odd, there are $$2^{\frac{(n-1)*n}{2}}$$
 9x9 Sprite<br>
 ![sprite-#51](https://github.com/user-attachments/assets/f77535a4-5fec-4d2f-81ef-69962eb71f30)
 
-
+---
